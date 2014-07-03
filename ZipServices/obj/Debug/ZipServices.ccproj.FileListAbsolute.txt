@@ -1,0 +1,2 @@
+E:\ASPII\Assignments\Services\ZipServices\ZipServices\bin\Debug\ServiceConfiguration.cscfg
+E:\ASPII\Assignments\Services\ZipServices\ZipServices\bin\Debug\ServiceDefinition.csdef
